@@ -23,7 +23,6 @@ net.minestom.server.component
 net.minestom.server.condition
 net.minestom.server.coordinate
 net.minestom.server.crypto
-net.minestom.server.effects
 net.minestom.server.entity
 net.minestom.server.entity.ai
 net.minestom.server.entity.ai.goal
@@ -72,6 +71,7 @@ net.minestom.server.extras.query.event
 net.minestom.server.extras.query.response
 net.minestom.server.extras.velocity
 net.minestom.server.fluid
+net.minestom.server.game
 net.minestom.server.gamedata
 net.minestom.server.gamedata.tags
 net.minestom.server.instance
@@ -96,6 +96,7 @@ net.minestom.server.item.book
 net.minestom.server.item.component
 net.minestom.server.item.crossbow
 net.minestom.server.item.enchant
+net.minestom.server.item.instrument
 net.minestom.server.listener
 net.minestom.server.listener.common
 net.minestom.server.listener.manager
@@ -155,3 +156,4 @@ net.minestom.server.utils.url
 net.minestom.server.utils.validate
 net.minestom.server.world
 net.minestom.server.world.biome
+net.minestom.server.worldevent
